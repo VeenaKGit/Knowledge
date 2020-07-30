@@ -1,4 +1,5 @@
-Projects/
+data/StackOverFlow 2019 Survey/survey_results_public.csv
+data/iris/database.db
 .idea/
 .ipynb_checkpoints/
 
