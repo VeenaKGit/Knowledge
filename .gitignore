@@ -2,6 +2,9 @@ data/StackOverFlow 2019 Survey/survey_results_public.csv
 data/iris/database.db
 .idea/
 .ipynb_checkpoints/
+Flask App/.ipynb_checkpoints
+Flask App/__pycache__
+Flask App/flaskblog/__pycache__
 
 # Environments
 .env
