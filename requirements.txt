@@ -45,7 +45,7 @@ lxml==4.9.1
 MarkupSafe==1.1.1
 matplotlib==3.3.1
 mistune==2.0.3
-mysql-connector-python==8.0.21
+mysql-connector-python==9.1.0
 nbconvert==6.5.1
 nbformat==5.0.7
 notebook==6.4.12
